@@ -37,8 +37,8 @@ This project demonstrates a multi-threaded approach using ESP-IDF v4.4.7 on an E
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/esp32-multithreading-wifi-button.git
-    cd esp32-multithreading-wifi-button
+    git clone https://github.com/hyutrn/ESP32_Button.git
+    cd esp32_button
     ```
 
 2. **Set up ESP-IDF environment**:
