@@ -15,14 +15,14 @@ This project demonstrates a multi-threaded approach using ESP-IDF v4.4.7 on an E
 
 ## Directory Structure
 
-├── main
-│   ├── button.c
-│   ├── button.h
-│   ├── main.c
-│   ├── wifi.c
-│   ├── wifi.h
-├── CMakeLists.txt
-└── sdkconfig
+- ├── main
+- │   ├── button.c
+- │   ├── button.h
+- │   ├── main.c
+- │   ├── wifi.c
+- │   ├── wifi.h
+- ├── CMakeLists.txt
+- └── sdkconfig
 
 ## Getting Started
 
