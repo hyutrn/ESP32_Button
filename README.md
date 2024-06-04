@@ -88,10 +88,10 @@ Make sure to connect your buttons to the appropriate GPIO pins defined in `butto
 #define BUTTON3_GPIO 4
 #define BUTTON4_GPIO 5
 
-#Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-#License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
